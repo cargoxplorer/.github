@@ -21,24 +21,14 @@ To get started with CargoXplorer:
 
 1. Visit our [official website](https://www.cargoxplorer.com) for more information.
 2. Contact our sales team for a demo and pricing information.
-3. Check out our [documentation](https://docs.cargoxplorer.com) for detailed guides and API references.
-
-## System Requirements
-
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- Internet connection
-- For on-premise installations, please refer to our technical specifications document.
+3. Check out our [documentation](https://docs.cargoxplorer.com) for detailed guides and API references. 
 
 ## Support and Community
 
 - [Support Portal](https://support.cargoxplorer.com)
 - [Community Forum](https://community.cargoxplorer.com)
 - [FAQ](https://www.cargoxplorer.com/faq)
-
-## Contributing
-
-We welcome contributions from the community. Please read our [contributing guidelines](CONTRIBUTING.md) before submitting pull requests.
-
+ 
 ## License
 
 CargoXplorer is proprietary software. Please contact our sales team for licensing information.
@@ -51,8 +41,8 @@ CargoXplorer is proprietary software. Please contact our sales team for licensin
 
 ## About Us
 
-CargoXplorer is developed by [Your Company Name], a leader in logistics software solutions. Our mission is to simplify global trade through innovative technology.
+CargoXplorer is developed by ANKO Technologies Corp, a leader in logistics software solutions. Our mission is to simplify global trade through innovative technology.
 
 ---
 
-© 2023 [Your Company Name]. All rights reserved.
+© 2024 ANKO Technologies Corp. All rights reserved.
